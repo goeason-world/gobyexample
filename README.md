@@ -18,5 +18,5 @@ https://gobyexample.com/
 
 # 规划
 - 啃完了这个手册，开始学点系统的能力
-- 比如expoter，web框架
+- 比如xx-exporter，web框架等
 - 未知
